@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "init.md",
+            "file": "Session notes/Session -2 – World building.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init.md",
+                "file": "Session notes/Session -2 – World building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init.md",
+                "file": "Session notes/Session -2 – World building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init.md"
+                "file": "Session notes/Session -2 – World building.md"
               }
             }
           }
@@ -129,5 +129,8 @@
     "collapsed": true
   },
   "active": "8ce800c51ebf43e3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "init.md"
+  ]
 }
